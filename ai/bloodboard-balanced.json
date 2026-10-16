@@ -1,0 +1,17 @@
+{
+  "format": "bloodboard-ai",
+  "formatVersion": 1,
+  "apiVersion": 1,
+  "id": "bloodboard-balanced",
+  "name": "Bloodboard AI — Balanced",
+  "version": "5.5.0",
+  "description": "The built-in Bloodboard algorithm with its default parameters: weighs attack, ball safety and defence evenly.",
+  "author": "Bloodboard",
+  "implementation": "bloodboard",
+  "parameters": {
+    "objectives": {
+      "protectThreats": 2,
+      "protectCageBelow": 2
+    }
+  }
+}

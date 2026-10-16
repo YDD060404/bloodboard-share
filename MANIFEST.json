@@ -1,0 +1,124 @@
+{
+  "product": "Bloodboard Unified clean friend runtime",
+  "version": "0.2.0",
+  "fingerprint": {
+    "version": "0.2.0",
+    "engineHash": "8ffd4c86ed2f6f0471fac87b8493e04a1bfeec216a7ebf511702835bb9f9a84d",
+    "rulesHash": "ef05264a2b584e775696b0bb3a6ce0a8e308b9eb585e73236dd8ff20da7610cf",
+    "apiHash": "a9a1ef052c4ae583eb768db306f34be82a5d9d94a56477c2b1e85d4d71833278",
+    "saveFormatVersion": 2,
+    "aiApiVersion": "2.0"
+  },
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 53,
+      "sha256": "ae90c48650d4e1678d17f3c27ac62b00fe6857dcf677b77b53156e2970da0768"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1564,
+      "sha256": "dda4f220834c66755a6d4e1786885e97f692dd5d2379640988f790b76d66c89a"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "bytes": 1333,
+      "sha256": "5e7e09fc8757491b884a3a2c3bace920db22f8b53c8ab96423715ff84b3075b0"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "bytes": 1050,
+      "sha256": "3ae908f7137d14ca78a70c5f16f1204f42dd01525e38ea65aed02f0f976c523a"
+    },
+    {
+      "path": "ai/bloodboard-balanced.json",
+      "bytes": 460,
+      "sha256": "e305926aac460d024b6d8c31268a058ded37cd1030bcd42db4ed689d05d52c3d"
+    },
+    {
+      "path": "ai/bundled.js",
+      "bytes": 848655,
+      "sha256": "8c76d2c333b62e7f563b7d8bf92ee8c4406d9b2b8893363c779f473fb6b93eed"
+    },
+    {
+      "path": "ai/hopeful-1-5-9-gpt.js",
+      "bytes": 148534,
+      "sha256": "f5b495f8d873bf484640b2f70c6fa0ee81997eee7937e806a5eaccb74ad39941"
+    },
+    {
+      "path": "ai/hopeful-2-5-s4-37u-c-unified.js",
+      "bytes": 687837,
+      "sha256": "2d0c2472c7e3e7f675835711d3e7124b3607c4e8a6015e3529419f6be5ce29fd"
+    },
+    {
+      "path": "app.css",
+      "bytes": 60573,
+      "sha256": "87b7a21b26a1dd44974a9f4aa0306f57342879f4f2ae3d4407d43079cab18c04"
+    },
+    {
+      "path": "app.js",
+      "bytes": 1283942,
+      "sha256": "d7e2499c8bf9845122fb474e6c84c233c3382eb9d86672ec303814d9bfaad37f"
+    },
+    {
+      "path": "build-info.json",
+      "bytes": 1226,
+      "sha256": "1080f54647012b763df5d7d02d452c0c86c2be286c2302f2d504c53e75792f5f"
+    },
+    {
+      "path": "engine-worker-src.js",
+      "bytes": 1056365,
+      "sha256": "2ed599d681bc396710d4c461ac31782fcb72daaa8251eb3b6530f003fe2b190f"
+    },
+    {
+      "path": "engine-worker.js",
+      "bytes": 1013051,
+      "sha256": "17f08c4977193d86f7c337e27e2b83da55a7f4318cc71acc0e5f16bfe53f84b4"
+    },
+    {
+      "path": "engine.js",
+      "bytes": 779088,
+      "sha256": "7d783288b7e320c9938c9af0fb49f5d7a480c9552c3a4f8cf55011e919e93749"
+    },
+    {
+      "path": "index.html",
+      "bytes": 564,
+      "sha256": "eeba10a56f447e10ab4217f9f2f332f95423bd4f9d24ea952f9f3a45397bfc28"
+    },
+    {
+      "path": "lan/engine.mjs",
+      "bytes": 826077,
+      "sha256": "0c0550715b88e058024b3ccd1b094cf3bd20489aece5233af6d085cec10dbc4d"
+    },
+    {
+      "path": "lan/room.mjs",
+      "bytes": 22401,
+      "sha256": "370f7282a4d097f8701627ac23e82c579cc741b927651bdf6e127e21f6f2e487"
+    },
+    {
+      "path": "lan/server.mjs",
+      "bytes": 23548,
+      "sha256": "9bc1f7f147106ad47a6c2e61127141f30e82815361c986804caef3af6500056e"
+    },
+    {
+      "path": "lan/store.mjs",
+      "bytes": 8292,
+      "sha256": "c75df41c63e8e5a9676059e2f425591456acc2dbd4ba509002fbca68cb3b5ac8"
+    },
+    {
+      "path": "language.js",
+      "bytes": 450769,
+      "sha256": "4a7127c45370713a49a350389a62ed40cbd58605706e81bcf416f140ec655c75"
+    },
+    {
+      "path": "package.json",
+      "bytes": 225,
+      "sha256": "5e3c5a62c103b5ea9e30b97903ac5df01e726569ac9f8e3af82facefc17d4013"
+    }
+  ]
+}

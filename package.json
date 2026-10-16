@@ -1,0 +1,12 @@
+{
+  "name": "bloodboard-share",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node lan/server.mjs --host 127.0.0.1 --port 8790 --web ."
+  }
+}

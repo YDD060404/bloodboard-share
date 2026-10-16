@@ -1,0 +1,24 @@
+{
+  "application": "Broadboard Online",
+  "version": "0.2.0",
+  "upstreamVersion": "7.0.2 + 7.0.1-cc1-loop1",
+  "builtAt": "2026-10-16T06:13:04.398Z",
+  "fingerprint": {
+    "version": "0.2.0",
+    "engineHash": "8ffd4c86ed2f6f0471fac87b8493e04a1bfeec216a7ebf511702835bb9f9a84d",
+    "rulesHash": "ef05264a2b584e775696b0bb3a6ce0a8e308b9eb585e73236dd8ff20da7610cf",
+    "apiHash": "a9a1ef052c4ae583eb768db306f34be82a5d9d94a56477c2b1e85d4d71833278",
+    "saveFormatVersion": 2,
+    "aiApiVersion": "2.0"
+  },
+  "sha256": {
+    "engine.js": "7d783288b7e320c9938c9af0fb49f5d7a480c9552c3a4f8cf55011e919e93749",
+    "engine-worker.js": "17f08c4977193d86f7c337e27e2b83da55a7f4318cc71acc0e5f16bfe53f84b4",
+    "engine-worker-src.js": "2ed599d681bc396710d4c461ac31782fcb72daaa8251eb3b6530f003fe2b190f",
+    "app.js": "d7e2499c8bf9845122fb474e6c84c233c3382eb9d86672ec303814d9bfaad37f",
+    "app.css": "87b7a21b26a1dd44974a9f4aa0306f57342879f4f2ae3d4407d43079cab18c04",
+    "index.html": "eeba10a56f447e10ab4217f9f2f332f95423bd4f9d24ea952f9f3a45397bfc28",
+    "language.js": "4a7127c45370713a49a350389a62ed40cbd58605706e81bcf416f140ec655c75",
+    "ai/bundled.js": "8c76d2c333b62e7f563b7d8bf92ee8c4406d9b2b8893363c779f473fb6b93eed"
+  }
+}
